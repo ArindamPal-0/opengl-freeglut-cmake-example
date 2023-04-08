@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.10)
 project(opengl_project)
 
 # Add the include directory
-include_directories(includes)
+include_directories(include)
 
 # Add the directory containing the binaries
 link_directories(lib)
